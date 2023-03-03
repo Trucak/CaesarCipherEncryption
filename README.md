@@ -28,4 +28,4 @@ Key saved to key_12.txt
 
 ## Note
 
-This script does not include decryption functionality.## CaesarCipherEncryption
+This script does not include decryption functionality.
